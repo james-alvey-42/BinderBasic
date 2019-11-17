@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/james-alvey-42/BinderBasic/master)
 
-![binder-logo](img/binder.png)
+![binder-logo](img/binder.png | width=100)
 
 This is a very basic example of how to use [Binder](https://mybinder.org/) to easily host projects that have dependencies in languages such as Python and Julia. To launch the virtual environment either click on the badge above or follow [this link](https://mybinder.org/). For examples of other Binder projects see [here](https://github.com/binder-examples).
 
