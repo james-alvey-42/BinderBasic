@@ -1,6 +1,6 @@
 # Binder Basics
 
-<a href="https://mybinder.org/v2/gh/james-alvey-42/BinderBasic/master", target="_blank"><img src=https://mybinder.org/badge_logo.svg /></a>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/james-alvey-42/BinderBasic/master)
 
 <img src="img/binder.png" width="200"/>
 
