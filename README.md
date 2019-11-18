@@ -1,6 +1,6 @@
 # Binder Basics
 
-![Python](https://img.shields.io/badge/language-python-blue) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/james-alvey-42/BinderBasic/master)
+![Python](https://img.shields.io/badge/language-python-green) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/james-alvey-42/BinderBasic/master)
 
 <img src="img/binder.png" width="200"/>
 
